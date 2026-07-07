@@ -4,8 +4,8 @@
   "plugins": [
     {
       "name": "marketing-data-engine-sps",
-      "source": "./",
-      "description": "The exact tool contained in my zip file."
+      "source": "./marketing-data-engine-sps",
+      "description": "Marketing data engine for cleaning marketing data"
     }
   ]
 }
