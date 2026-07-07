@@ -1,0 +1,9 @@
+{
+  "name": "marketing-data-engine-sps",
+  "version": "0.1.0",
+  "description": "A complete marketing data quality engine: ingests raw prospecting data from Excel or CRM/ABM connectors, enriches missing fields via a LinkedIn Sales Navigator > Apollo > Lusha waterfall, validates it through a 12-level, 100+ point framework, scores it with a weighted Marketing Data Quality Score (MDQS), and routes Gold/Silver records to the CRM while flagging the rest for review.",
+  "author": {
+    "name": "SP"
+  },
+  "keywords": ["marketing", "data quality", "data validation", "abm", "enrichment", "mdqs", "crm", "lead scoring"]
+}

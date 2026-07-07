@@ -1,0 +1,11 @@
+{
+  "name": "my-claude-marketplace",
+  "owner": { "name": "sachinpratapsingh" },
+  "plugins": [
+    {
+      "name": "marketing-data-engine-sps",
+      "source": "./",
+      "description": "The exact tool contained in my zip file."
+    }
+  ]
+}
